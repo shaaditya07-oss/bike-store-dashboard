@@ -3,7 +3,7 @@
 
 # Bike Store Sales Dashboard
 
-dashboard_screenshots/Screenshot (44).png
+dashboard_screenshots/Screenshot(44).png
 
 ## Key Insights
 - Trek brand generates $4.6M (59% of total revenue)
